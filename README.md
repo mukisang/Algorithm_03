@@ -48,7 +48,8 @@ Model 2:
 Model 3:
 ![Model3_images](https://user-images.githubusercontent.com/33710013/82447865-d7fa9a00-9ae3-11ea-8cb0-0365586263b3.png)
 ----------------------------------
-#5. Images and corresponding probablitiy that predicted Wrong
+#5. Images and corresponding probablitiy that predicted Right&Wrong
+
 Model 1:
 
 ![result_Model1](https://user-images.githubusercontent.com/33710013/82443173-02e0f000-9adc-11ea-8d04-8e457d2323cb.png)
