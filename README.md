@@ -14,6 +14,7 @@ Model 3 : 7layers
 
 -----------------------------------
 2. Training with Traning loss
+
 Model 1:
 ![Model2_training](https://user-images.githubusercontent.com/33710013/82446510-bb5d6280-9ae1-11ea-9469-eccea3fde0b0.png)
 
